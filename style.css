@@ -1,0 +1,35 @@
+.thongbao{
+    text-align: center;
+    color: azure;
+    font-size: 30px;
+    background-color: brown;
+}
+
+
+.quydoi{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-color: pink;
+}
+
+.btnThongbao{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-color: greenyellow;
+}
+
+.bntThongbao{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-color: red;
+}
+
+.trungbinh{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-color: violet;
+}
